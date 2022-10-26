@@ -38,7 +38,7 @@ Open the project using a live server extension that can be found into your code 
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/SabiMantock)
+- GitHub: [@SabiMantock](https://github.com/SabiMantock)
 
 ## 🤝 Contributing
 
